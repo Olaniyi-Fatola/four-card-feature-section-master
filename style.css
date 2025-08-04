@@ -28,8 +28,6 @@ body {
 }
 .content {
     font-size: 0.8rem;
-    padding-left: 5rem;
-    padding-right: 5rem;
 }
 h1, h2, h3, p {
     overflow-wrap: break-word;
