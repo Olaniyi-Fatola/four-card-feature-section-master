@@ -21,10 +21,6 @@ body {
     text-align: center;
     text-wrap: balance;
 }
-.content {
-    padding-left: 8rem;
-    padding-right: 8rem;
-}
 h1, h2, h3, p {
     overflow-wrap: break-word;
     margin-top: 0.1rem;
