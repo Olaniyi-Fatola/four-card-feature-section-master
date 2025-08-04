@@ -20,6 +20,7 @@ body {
 .heading {
     text-align: center;
     text-wrap: balance;
+    font-weight: 600;
 }
 h1, h2, h3, p {
     overflow-wrap: break-word;
@@ -36,7 +37,10 @@ h1 {
 h2 {
     color:hsl(234, 12%, 34%);
     font-size: 1.5rem;
-    font-weight: 600;
+}
+
+.content{
+    font-style: 0.9rem;
 }
 
 h3 {
