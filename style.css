@@ -19,7 +19,7 @@ body {
 }
 .heading {
     text-align: center;
-    text-wrap: b;
+    text-wrap: balance;
 }
 .content {
     padding-left: 8rem;
