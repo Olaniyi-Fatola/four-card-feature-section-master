@@ -93,6 +93,7 @@ img {
 @media(max-width: 768px) {
     body {
         margin-top: 1rem;
+        margin-bottom: 1rem;
     }
     .box{
         flex-direction: column;
