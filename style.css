@@ -91,6 +91,9 @@ img {
 
 
 @media(max-width: 768px) {
+    body {
+        min-height: 100svh;
+    }
     .box{
         flex-direction: column;
         align-items: center;
